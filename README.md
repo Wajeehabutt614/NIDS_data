@@ -1,0 +1,1 @@
+This repo contains all the results and preprocessed files of CIC-IDS 2017 and 2018 datasets. Different evaluations were performed to get results , changes were store and summary files are also uploaded. It contains , Stacking , Boosting and Bagiing Architecture techniques.
